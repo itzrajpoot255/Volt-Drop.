@@ -4,8 +4,9 @@
 
 Volt Drop is a front-end e-commerce storefront built to simulate a real streetwear/sneaker "drop" — products rendered dynamically from a data file, a countdown to when the drop closes, stock that ticks down live as items sell, and a cart + wishlist that persist across page reloads, all from a single static site.
 
-🔗 Repository: github.com/itzrajpoot255/Volt-Drop 
-🌐 Live Demo: volt-drop-ten.vercel.app
+🔗 **Repository:** [github.com/itzrajpoot255/Volt-Drop](https://github.com/itzrajpoot255/Volt-Drop)
+🌐 **Live Demo:** [volt-drop-ten.vercel.app](https://volt-drop-ten.vercel.app/)
+
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Made with](https://img.shields.io/badge/made%20with-JavaScript-yellow)
 ![Framework](https://img.shields.io/badge/UI-Bootstrap%205-purple)
@@ -61,8 +62,8 @@ volt-drop/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/volt-drop.git
-   cd volt-drop
+   git clone https://github.com/itzrajpoot255/Volt-Drop.git
+   cd Volt-Drop
    ```
 
 2. **Run it** — no install, no build step required. Either:
